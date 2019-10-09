@@ -1,4 +1,12 @@
 html {
     font-family: arial,sans-serif;
     font-size: 14px;
+    background-color: #eaecf0;
+}
+
+.page {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 40px;
 }
